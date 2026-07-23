@@ -222,6 +222,7 @@
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Report>ОборотыПоТоварам</Report>
+			<Report>ОстаткиТоваров</Report>
 			<AccumulationRegister>ОстатокТоваров</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
