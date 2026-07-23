@@ -50,10 +50,12 @@
 		<Metadata name="Report.ОборотыПоТоварам" id="1741339e-f13c-495b-9930-764699fb0ccb" configVersion="ae8aa60b041f2d4ea96ecd32d3f9c4bb00000000"/>
 		<Metadata name="Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных" id="4fb94449-8b6b-4eab-90a7-c4f3e115110b" configVersion="f4c14f4069fc364e83f84c8e7ef5612500000000"/>
 		<Metadata name="Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="4fb94449-8b6b-4eab-90a7-c4f3e115110b.0" configVersion="3a02a01c9bbc0f4684288ce103fbe19600000000"/>
-		<Metadata name="Report.ОстаткиТоваров" id="787ffb03-912d-417f-add9-59f8e812e017" configVersion="90e0db93a5f5f743a38930d01fa7b7b300000000"/>
-		<Metadata name="Report.ОстаткиТоваров.Form.ФормаОтчета" id="05989fdf-55c9-4935-b27d-38212d3e0c41" configVersion="0376b4dfc89eb441bd56f0a51a5bcd0400000000"/>
-		<Metadata name="Report.ОстаткиТоваров.Form.ФормаОтчета.Form" id="05989fdf-55c9-4935-b27d-38212d3e0c41.0" configVersion="569e2861d9c50c4ba6ba339656c92bb800000000"/>
-		<Metadata name="Report.ОстаткиТоваров.ObjectModule" id="787ffb03-912d-417f-add9-59f8e812e017.0" configVersion="c95a9ed31afdc840a658116f841806a800000000"/>
+		<Metadata name="Report.ОстаткиТоваров" id="787ffb03-912d-417f-add9-59f8e812e017" configVersion="9f1e5b3a451fbb4b8e4d5eb219b091a800000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Form.ФормаОтчета" id="05989fdf-55c9-4935-b27d-38212d3e0c41" configVersion="e3777e3539bad64c8c984ff48a9ffe8900000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Form.ФормаОтчета.Form" id="05989fdf-55c9-4935-b27d-38212d3e0c41.0" configVersion="72193ecbc7849c418a1c5c51e2dd8bf100000000"/>
+		<Metadata name="Report.ОстаткиТоваров.ObjectModule" id="787ffb03-912d-417f-add9-59f8e812e017.0" configVersion="5844e9845f536849ae4c79801e556a9f00000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="36b0e5d8-a59a-45bf-9487-441ffd0df8e7" configVersion="c30663df89c66145a63997c82c9a97e000000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="36b0e5d8-a59a-45bf-9487-441ffd0df8e7.0" configVersion="e51853e1da4ff84795fd8c658aebdb8600000000"/>
 		<Metadata name="Subsystem.МиниСклад" id="eda0a2cd-1fdc-4106-8d10-ecbde724f263" configVersion="9c595a9b007371469291c0f970cd849300000000"/>
 		<Metadata name="Subsystem.МиниСклад.CommandInterface" id="eda0a2cd-1fdc-4106-8d10-ecbde724f263.1" configVersion="44d790339faca64482f4cee39fabd47900000000"/>
 		<Metadata name="Subsystem.УчётТоваров" id="419dc00e-c84e-45fa-8a38-1de0ba4922f5" configVersion="17f8a09d4e766c4d90abbab81ab3922f00000000"/>
